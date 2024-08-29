@@ -1,5 +1,7 @@
 # AASDJ Foods Network Implementation
 
+This repository contains work originally developed in December 2023. The commits are dated according to the original work timeline, but the repository was created on 29th August, 2024 for organizational and archival purposes.
+
 ## Overview
 In the dynamic landscape of information technology, our group embarked on a comprehensive project to design and implement a robust Small Office Home Office (SOHO) network for AASDJ Foods, a burgeoning company in Lahore, Pakistan. With the vision of expanding its operations, AASDJ Foods sought our expertise to establish an autonomous network for a new branch near the local village of Bonalbo.
 
